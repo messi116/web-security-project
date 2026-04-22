@@ -1,3 +1,27 @@
+PROJECT TITLE 
+Web Security Enhancement Project (OWASP Juice Shop Based
+DESCRIPTION
+This project is based on OWASP Juice Shop.
+It demonstrates identification and mitigation of common web vulnerabilities.
+FEATURES 
+XSS testing & prevention
+SQL Injection testing
+Input validation using validator
+Password hashing using bcrypt
+JWT authentication
+Security logging using logger.js
+Security headers using Helmet
+TOOL USED 
+OWASP ZAP
+Node.js
+Express.js
+Git & GitHub
+
+HOW TO RUN 
+npm install
+npm start
+AUTHOR 
+Muhammad Omais Faheem
 # ![Juice Shop Logo](https://raw.githubusercontent.com/juice-shop/juice-shop/master/frontend/src/assets/public/images/JuiceShop_Logo_100px.png) OWASP Juice Shop
 
 [![OWASP Flagship](https://img.shields.io/badge/owasp-flagship%20project-48A646.svg)](https://owasp.org/projects/#sec-flagships)
