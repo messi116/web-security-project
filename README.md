@@ -11,23 +11,33 @@ It demonstrates identification and mitigation of common web vulnerabilities.
 FEATURES 
 
 XSS testing & prevention
+
 SQL Injection testing
+
 Input validation using validator
+
 Password hashing using bcrypt
+
 JWT authentication
+
 Security logging using logger.js
+
 Security headers using Helmet
 
 TOOL USED 
 
 OWASP ZAP
+
 Node.js
+
 Express.js
+
 Git & GitHub
 
 HOW TO RUN 
 
 npm install
+
 npm start
 
 AUTHOR 
